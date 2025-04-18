@@ -1,19 +1,26 @@
-# 🎈 Blank app template
+# 🕰️ Financial Time Resonance Engine
 
-A simple Streamlit app template for you to modify!
+A powerful Streamlit application that uncovers **temporal resonance patterns** in financial market data. It helps identify historical windows that harmonically align with current market behavior across time, price, volume, and volatility dimensions.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://timemachine.streamlit.app/)
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## 🚀 Features
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+- 📊 Interactive dashboard with multi-tab layout
+- 🔍 Upload custom financial datasets in CSV format
+- ⏱️ Detect harmonic relationships with historical price/volume/volatility windows
+- 🔄 Compare past and present market patterns using t-SNE, UMAP, and FastDTW
+- 🔮 Forecast potential future market trajectories based on resonance similarity
+- 🌐 Fully built using Streamlit for real-time, web-based interactivity
 
-2. Run the app
+---
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 📁 How to Use (Locally)
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/timemachine.git
+cd timemachine
