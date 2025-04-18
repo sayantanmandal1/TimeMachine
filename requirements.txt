@@ -1,1 +1,13 @@
 streamlit
+pandas
+numpy
+plotly
+altair
+scipy
+scikit-learn
+statsmodels
+pywt
+fastdtw
+umap-learn
+matplotlib
+PyWavelets
