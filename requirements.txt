@@ -6,7 +6,7 @@ altair
 scipy
 scikit-learn
 statsmodels
-pywt
+PyWavelets
 fastdtw
 umap-learn
 matplotlib
