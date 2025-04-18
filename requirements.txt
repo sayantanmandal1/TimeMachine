@@ -1,12 +1,12 @@
 streamlit
 pandas
 numpy
+PyWavelets
 plotly
 altair
 scipy
 scikit-learn
 statsmodels
-PyWavelets
 fastdtw
 umap-learn
 matplotlib
